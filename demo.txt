@@ -1,1 +1,2 @@
 Am adaugat text in fisierul demo pe server
+Am adaugat text in fisierul demo pe local
